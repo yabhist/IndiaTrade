@@ -2,5 +2,5 @@
 
 ## Objective
 
-The main objective of this notebook is to examine the trends in India‟s exports and import in terms of value and to examine the structural changes in composition of India‟s exports amd import over the years(2010-21)
+This was my project for the course DA332 . The main objective of it was to examine the trends in India's exports and imports in terms of value and to examine the structural changes in composition of Indiass exports and imports over the years(2010-21).
 
